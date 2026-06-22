@@ -1,0 +1,11 @@
+{
+  "name": "my-skills-plugin",
+  "version": "1.0.0",
+  "description": "我的个人效率技能合集，目前包含周报生成。",
+  "author": {
+    "name": "bear",
+    "email": "m1275601161@gmail.com"
+  },
+  "keywords": ["productivity", "weekly-report", "writing"],
+  "license": "MIT"
+}
