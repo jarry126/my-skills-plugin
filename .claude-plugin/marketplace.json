@@ -1,0 +1,19 @@
+{
+  "name": "bear-marketplace",
+  "owner": {
+    "name": "bear",
+    "email": "m1275601161@gmail.com"
+  },
+  "metadata": {
+    "description": "bear 的个人插件市场",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "my-skills-plugin",
+      "source": ".",
+      "description": "个人效率技能合集（含周报生成）",
+      "category": "productivity"
+    }
+  ]
+}
