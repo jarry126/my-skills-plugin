@@ -1,0 +1,7 @@
+interface:
+  display_name: "PRD转验收标准"
+  short_description: "将需求文档转成MVP范围、验收矩阵和可执行证据基线"
+  default_prompt: "使用 $prd-to-acceptance 分析需求文档并生成可执行的验收标准。"
+
+policy:
+  allow_implicit_invocation: true

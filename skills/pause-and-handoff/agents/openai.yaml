@@ -1,0 +1,7 @@
+interface:
+  display_name: "暂停与任务交接"
+  short_description: "暂停当前任务并生成可供其他AI恢复执行的完整交接文档"
+  default_prompt: "使用 $pause-and-handoff 暂停当前任务，保存修改、决策、已完成事项和后续恢复步骤。"
+
+policy:
+  allow_implicit_invocation: true

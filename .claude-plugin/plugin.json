@@ -1,11 +1,10 @@
 {
   "name": "my-skills-plugin",
-  "version": "1.0.0",
-  "description": "我的个人效率技能合集，目前包含周报生成。",
+  "version": "1.1.0",
+  "description": "个人效率与 AI 工作流技能合集，包含周报生成、执行前澄清、PRD 转验收标准和任务交接。",
   "author": {
-    "name": "bear",
-    "email": "m1275601161@gmail.com"
+    "name": "AI Workflow Skills Contributors"
   },
-  "keywords": ["productivity", "weekly-report", "writing"],
+  "keywords": ["productivity", "weekly-report", "writing", "ai-workflow", "prd", "acceptance", "handoff"],
   "license": "MIT"
 }
